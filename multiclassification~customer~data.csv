@@ -1,0 +1,1001 @@
+Age,Education_Level,Marital_Status,Credit_Score,Annual_Income,Savings_Amount,Income_Category,Health_Status
+58,Graduate,Divorced,771,48843,-1306,Low,Poor
+44,High School,Divorced,680,52526,5489,Low,Poor
+28,College,Married,682,56526,8095,Low,Good
+50,Graduate,Married,526,38623,12731,Low,Poor
+48,Graduate,Married,720,62126,6248,High,Good
+52,High School,Married,634,67348,3769,Low,Poor
+40,College,Married,672,61650,562,Low,Poor
+40,College,Married,649,37544,7018,Low,Poor
+53,Graduate,Divorced,682,30300,19754,Low,Poor
+69,High School,Married,722,57087,11356,Low,Good
+53,College,Divorced,701,42398,14698,Low,Poor
+23,Graduate,Single,735,52871,5500,Low,Poor
+51,College,Married,763,65351,2133,Low,Good
+22,Graduate,Single,682,43430,3895,Low,Poor
+53,College,Married,676,46224,9514,Low,Poor
+59,High School,Divorced,748,52767,29,Low,Poor
+22,College,Widow,752,37025,4967,Low,Poor
+50,Graduate,Single,737,42421,7068,Low,Poor
+66,Uneducated,Married,652,50249,3395,Low,Average
+41,Uneducated,Divorced,721,46995,-618,Low,Poor
+51,Graduate,Married,705,56084,11448,High,Good
+54,Graduate,Married,753,77660,10229,High,Good
+56,College,Divorced,671,50991,13895,Low,Poor
+57,College,Married,617,41583,4448,Low,Poor
+45,Uneducated,Single,735,64182,13800,Low,Poor
+44,High School,Married,572,34112,17647,Low,Poor
+23,High School,Divorced,663,36111,11311,Low,Poor
+70,College,Married,649,44049,6950,Low,Average
+27,High School,Single,649,47171,10725,Low,Poor
+50,College,Divorced,663,43809,6711,Low,Poor
+29,Graduate,Single,761,49685,5879,Low,Poor
+47,Graduate,Divorced,741,52747,13416,Low,Poor
+24,Uneducated,Married,687,60690,9305,Low,Good
+54,Uneducated,Widow,757,50912,16025,Low,Poor
+43,Graduate,Married,647,44381,7788,Low,Poor
+29,College,Married,640,60146,8294,Low,Poor
+55,Graduate,Single,743,41823,7167,Low,Poor
+22,Graduate,Married,729,33674,4399,Low,Good
+49,College,Divorced,677,62060,14072,Low,Poor
+57,Graduate,Widow,643,61419,20929,Low,Poor
+27,Graduate,Married,773,42077,8089,Low,Good
+28,Graduate,Married,614,46009,6598,Low,Poor
+68,Graduate,Divorced,670,40831,6273,Low,Average
+43,College,Divorced,711,53266,6601,Low,Poor
+46,Uneducated,Married,790,67320,18249,Low,Good
+69,Graduate,Married,719,57029,6408,High,Good
+24,College,Married,724,60357,7074,Low,Good
+22,Uneducated,Married,672,58197,3798,Low,Poor
+26,Graduate,Single,728,49999,11468,Low,Poor
+24,Uneducated,Married,705,60833,9664,Low,Good
+58,Graduate,Married,621,57450,4314,Low,Poor
+47,Graduate,Divorced,740,64394,5536,Low,Poor
+55,High School,Single,749,45405,17665,Low,Poor
+67,College,Married,740,32619,10164,Low,Good
+30,Graduate,Married,702,60453,10508,Low,Good
+69,Graduate,Married,652,53498,10528,Low,Average
+43,College,Single,585,47040,16973,Low,Poor
+60,College,Married,708,47598,4774,Low,Good
+44,Uneducated,Married,754,75547,8018,Low,Good
+28,Uneducated,Married,750,43578,9155,Low,Good
+43,Graduate,Married,741,41467,1394,High,Good
+52,College,Married,696,50853,5419,Low,Good
+50,College,Divorced,754,61805,15233,Low,Poor
+45,High School,Married,746,72784,13801,Low,Good
+47,Uneducated,Divorced,679,56574,14685,Low,Poor
+53,College,Married,734,37296,7055,Low,Good
+55,Graduate,Single,673,69709,7672,Low,Poor
+54,College,Single,727,49805,1060,Low,Poor
+58,Graduate,Married,635,41623,14660,Low,Poor
+44,Graduate,Divorced,639,39206,15483,Low,Poor
+21,Uneducated,Divorced,753,58363,15420,Low,Poor
+54,College,Divorced,747,52388,18020,Low,Poor
+27,High School,Married,732,53451,12111,Low,Good
+29,College,Married,704,62865,17784,Low,Good
+53,Uneducated,Single,580,41978,8998,Low,Poor
+21,Uneducated,Married,696,63662,1165,Low,Good
+28,Graduate,Married,723,44808,14304,Low,Good
+53,Graduate,Single,673,71640,981,Low,Poor
+40,Graduate,Married,664,55987,10851,Low,Poor
+46,College,Married,772,40798,14777,Low,Good
+28,Uneducated,Divorced,697,29746,11621,Low,Poor
+68,Graduate,Widow,723,58089,21391,Low,Average
+68,Graduate,Widow,739,46258,170,Low,Average
+66,Graduate,Married,650,48444,9586,Low,Average
+25,High School,Married,710,57662,10087,Low,Good
+57,College,Married,766,60104,3279,Low,Good
+27,Graduate,Divorced,791,62237,4231,Low,Poor
+29,High School,Single,702,38252,5774,Low,Poor
+28,Graduate,Married,688,64259,4502,Low,Good
+41,College,Divorced,713,44210,9460,Low,Poor
+67,Graduate,Married,712,27438,6985,High,Good
+66,College,Married,769,38216,11590,Low,Good
+52,Graduate,Married,650,52180,13247,Low,Poor
+53,Graduate,Single,686,40212,12909,Low,Poor
+70,College,Married,644,49120,7949,Low,Average
+68,Graduate,Married,649,53383,11422,Low,Average
+51,Graduate,Single,719,48186,15176,Low,Poor
+56,Graduate,Single,740,45056,12228,Low,Poor
+68,Uneducated,Divorced,668,37493,19295,Low,Average
+21,Graduate,Married,739,50219,14911,Low,Good
+68,College,Married,756,29350,18592,Low,Good
+70,High School,Married,797,43140,-2462,Low,Good
+43,College,Widow,703,40722,10483,Low,Poor
+23,Graduate,Married,668,47606,8380,Low,Poor
+21,High School,Married,650,47867,9375,Low,Poor
+25,Graduate,Divorced,645,59600,5975,Low,Poor
+55,Graduate,Divorced,762,65835,11981,Low,Poor
+43,Graduate,Single,624,38822,958,Low,Poor
+56,Graduate,Divorced,761,69928,12017,Low,Poor
+29,College,Married,657,42207,6141,Low,Poor
+44,High School,Married,666,51725,7498,Low,Poor
+44,Graduate,Single,692,55109,12193,Low,Poor
+55,Graduate,Single,665,74446,10394,Low,Poor
+42,Graduate,Divorced,747,44577,15270,Low,Poor
+65,Graduate,Married,791,32033,5152,High,Good
+65,College,Married,667,64904,9596,Low,Average
+24,Uneducated,Divorced,678,41666,14444,Low,Poor
+59,Graduate,Divorced,692,46384,11806,Low,Poor
+70,Graduate,Single,727,38823,12128,Low,Average
+52,College,Married,692,46413,15540,Low,Good
+44,Graduate,Single,769,41596,7969,Low,Poor
+58,Graduate,Divorced,757,56764,6916,Low,Poor
+69,High School,Married,641,50808,12880,Low,Average
+42,Uneducated,Widow,726,43189,9253,Low,Poor
+65,College,Single,776,59959,15611,Low,Average
+27,Uneducated,Single,675,52550,11849,Low,Poor
+51,Graduate,Married,685,31540,6883,High,Good
+57,College,Married,674,59197,11692,Low,Poor
+22,Graduate,Married,675,51849,5487,Low,Poor
+26,Uneducated,Widow,617,63907,14735,Low,Poor
+57,Graduate,Married,634,51239,3014,Low,Poor
+57,Uneducated,Married,704,42083,16110,Low,Good
+49,Graduate,Divorced,776,47957,11604,Low,Poor
+59,Graduate,Married,669,58039,9177,Low,Poor
+40,Uneducated,Divorced,668,42293,13817,Low,Poor
+57,College,Single,785,45597,12557,Low,Poor
+54,Graduate,Married,645,47783,16652,Low,Poor
+66,College,Single,617,38506,16605,Low,Average
+21,Uneducated,Single,659,42437,11761,Low,Poor
+56,Uneducated,Widow,667,51726,5641,Low,Poor
+42,High School,Single,613,62025,7292,Low,Poor
+23,Graduate,Married,694,53171,9642,Low,Good
+26,Uneducated,Married,747,49541,15409,Low,Good
+28,College,Married,636,41687,7718,Low,Poor
+56,Graduate,Divorced,704,60952,8135,Low,Poor
+29,Uneducated,Single,720,54335,19242,Low,Poor
+70,High School,Married,696,42933,9479,Low,Good
+66,Graduate,Widow,709,58986,6826,Low,Average
+53,College,Married,710,55596,13883,Low,Good
+44,Uneducated,Widow,659,41865,9719,Low,Poor
+65,Uneducated,Single,775,48986,3052,Low,Average
+65,Uneducated,Married,762,45072,15205,Low,Good
+53,Graduate,Married,759,76335,6265,High,Good
+41,Uneducated,Divorced,751,55317,10218,Low,Poor
+22,Uneducated,Widow,621,51868,9659,Low,Poor
+23,Graduate,Married,746,54727,11151,Low,Good
+70,Uneducated,Married,733,63792,-955,Low,Good
+46,High School,Single,623,49166,8325,Low,Poor
+22,Graduate,Married,689,44101,15624,Low,Good
+22,College,Married,714,58443,16327,Low,Good
+57,College,Widow,783,48251,5044,Low,Poor
+52,High School,Married,736,39301,14603,Low,Good
+70,Graduate,Married,657,37353,6193,Low,Average
+65,Graduate,Single,785,65293,8127,Low,Average
+66,Graduate,Single,702,51316,8390,Low,Average
+21,High School,Married,687,44104,10544,Low,Good
+48,Graduate,Married,684,47657,15007,High,Good
+22,Graduate,Divorced,619,58074,11323,Low,Poor
+55,Graduate,Married,695,47066,9369,High,Good
+65,Graduate,Married,725,35506,14837,High,Good
+26,Graduate,Single,681,53258,5987,Low,Poor
+65,Uneducated,Divorced,721,62083,9614,Low,Average
+24,Graduate,Divorced,657,61415,14979,Low,Poor
+40,College,Single,693,44407,12647,Low,Poor
+46,High School,Divorced,716,62692,7668,Low,Poor
+53,Uneducated,Married,709,52129,2435,Low,Good
+25,High School,Single,620,62411,11554,Low,Poor
+67,Uneducated,Married,678,55737,2107,Low,Average
+26,Graduate,Married,784,34784,8937,Low,Good
+51,Uneducated,Single,675,67467,15895,Low,Poor
+40,Graduate,Widow,701,50518,12984,Low,Poor
+45,Uneducated,Divorced,696,55768,-118,Low,Poor
+66,Graduate,Married,778,36560,11002,High,Good
+29,Graduate,Married,765,55053,8404,Low,Good
+26,Graduate,Married,740,61029,3631,Low,Good
+45,Graduate,Married,651,69353,11675,Low,Poor
+58,Graduate,Married,718,64004,7541,High,Good
+23,Uneducated,Single,728,55542,7572,Low,Poor
+49,Uneducated,Married,665,34556,10620,Low,Poor
+69,Graduate,Divorced,656,51323,6871,Low,Average
+48,Graduate,Married,785,44075,10479,High,Good
+55,Graduate,Single,685,52350,7033,Low,Poor
+23,Graduate,Divorced,781,37837,7308,Low,Poor
+48,College,Married,750,47898,14965,Low,Good
+49,College,Married,720,44828,15473,Low,Good
+65,Graduate,Single,723,44518,1457,Low,Average
+27,College,Married,630,44618,13735,Low,Poor
+66,College,Divorced,710,48641,16993,Low,Average
+47,College,Married,771,52862,17787,Low,Good
+21,High School,Married,734,25015,12602,Low,Good
+40,High School,Divorced,708,26236,4713,Low,Poor
+57,Uneducated,Divorced,786,46613,13150,Low,Poor
+54,Graduate,Divorced,691,48022,5654,Low,Poor
+52,Graduate,Married,669,51891,8285,Low,Poor
+60,Graduate,Married,708,42723,11915,High,Good
+59,College,Widow,738,50095,5976,Low,Poor
+68,Uneducated,Divorced,614,51265,4268,Low,Average
+27,Graduate,Single,714,42654,12329,Low,Poor
+45,High School,Single,741,60135,19336,Low,Poor
+55,Graduate,Married,687,51770,16216,High,Good
+22,Uneducated,Widow,755,55470,13536,Low,Poor
+21,Uneducated,Married,732,50688,14896,Low,Good
+41,Graduate,Married,807,71037,13189,High,Good
+25,Graduate,Single,662,55964,12250,Low,Poor
+70,College,Married,742,45120,14493,Low,Good
+65,Uneducated,Divorced,649,58210,3158,Low,Average
+29,College,Married,619,33624,10997,Low,Poor
+68,Uneducated,Divorced,598,51196,9595,Low,Average
+48,Graduate,Widow,727,53192,10395,Low,Poor
+45,Graduate,Married,709,51310,7693,High,Good
+23,Graduate,Married,676,46662,12602,Low,Poor
+49,College,Married,611,39877,5910,Low,Poor
+53,College,Divorced,665,42107,7331,Low,Poor
+66,College,Married,700,51021,6731,Low,Good
+53,College,Married,740,38865,14320,Low,Good
+40,Graduate,Divorced,699,67702,9941,Low,Poor
+28,Graduate,Married,713,23591,7696,Low,Good
+69,High School,Widow,681,46766,8133,Low,Average
+49,Uneducated,Married,787,51104,10019,Low,Good
+68,Uneducated,Single,649,55074,18111,Low,Average
+54,Uneducated,Married,665,40841,3817,Low,Poor
+68,Uneducated,Divorced,675,61343,13378,Low,Average
+54,College,Married,727,36062,12359,Low,Good
+58,Graduate,Divorced,648,44339,5585,Low,Poor
+47,Graduate,Widow,707,56207,17334,Low,Poor
+47,Graduate,Married,708,60402,12696,High,Good
+22,College,Widow,665,35960,7461,Low,Poor
+68,Uneducated,Single,716,76450,703,Low,Average
+45,College,Married,650,41025,11146,Low,Poor
+69,College,Single,644,36878,9776,Low,Average
+66,Graduate,Divorced,705,55027,4846,Low,Average
+24,Graduate,Married,617,46517,4782,Low,Poor
+66,Graduate,Single,593,45039,14343,Low,Average
+43,High School,Married,727,55956,222,Low,Good
+50,Uneducated,Married,752,34727,11571,Low,Good
+49,College,Single,677,32979,9063,Low,Poor
+28,College,Divorced,667,44026,12486,Low,Poor
+27,Uneducated,Divorced,750,60779,8528,Low,Poor
+23,Uneducated,Married,643,44459,11466,Low,Poor
+46,Uneducated,Widow,632,65992,6286,Low,Poor
+66,Uneducated,Married,735,62010,9754,Low,Good
+41,Graduate,Widow,700,52829,12445,Low,Poor
+51,Graduate,Married,753,53397,10754,High,Good
+51,High School,Married,593,52820,11902,Low,Poor
+59,Graduate,Single,630,51597,5360,Low,Poor
+28,Graduate,Divorced,701,46338,7047,Low,Poor
+56,College,Married,721,47498,7133,Low,Good
+56,Graduate,Single,742,39300,8618,Low,Poor
+67,Graduate,Single,709,27900,16793,Low,Average
+50,High School,Married,708,61041,8229,Low,Good
+59,College,Married,681,51573,4282,Low,Good
+66,Graduate,Divorced,780,50062,12708,Low,Average
+57,High School,Divorced,645,53984,16733,Low,Poor
+66,Uneducated,Single,718,41716,3694,Low,Average
+25,Graduate,Divorced,651,39989,19864,Low,Poor
+48,Graduate,Single,727,47163,12076,Low,Poor
+24,Graduate,Divorced,648,63681,15169,Low,Poor
+68,Uneducated,Divorced,737,38313,17335,Low,Average
+46,Graduate,Married,706,23729,14863,High,Good
+57,Graduate,Divorced,787,44786,9447,Low,Poor
+59,Graduate,Married,686,61427,16088,High,Good
+58,College,Married,721,32675,11273,Low,Good
+26,Uneducated,Divorced,661,38197,15452,Low,Poor
+68,Graduate,Married,686,52635,15999,High,Good
+70,Graduate,Married,705,75699,4546,High,Good
+53,Uneducated,Married,624,36418,13972,Low,Poor
+58,Uneducated,Divorced,629,36031,9091,Low,Poor
+60,Graduate,Married,730,53387,10691,High,Good
+68,Uneducated,Single,693,62047,10635,Low,Average
+66,Graduate,Divorced,670,43759,10435,Low,Average
+50,Graduate,Divorced,663,33786,17618,Low,Poor
+65,Graduate,Single,665,54337,3168,Low,Average
+52,Graduate,Married,706,56148,1388,High,Good
+66,College,Single,722,67787,334,Low,Average
+23,Uneducated,Married,595,56569,15346,Low,Poor
+47,Uneducated,Married,771,58281,6133,Low,Good
+54,High School,Divorced,767,47379,10661,Low,Poor
+60,Uneducated,Married,583,74415,9426,Low,Poor
+23,College,Married,754,46019,5568,Low,Good
+53,Graduate,Married,753,43881,14257,High,Good
+65,Graduate,Divorced,700,68095,9363,Low,Average
+51,College,Married,635,35258,8811,Low,Poor
+52,Uneducated,Widow,751,31526,11164,Low,Poor
+22,Uneducated,Married,688,51196,13604,Low,Good
+56,Graduate,Single,727,49983,5205,Low,Poor
+22,High School,Married,811,47721,14365,Low,Good
+55,College,Married,713,59939,17249,Low,Good
+46,Graduate,Married,654,40918,2869,Low,Poor
+66,Uneducated,Single,683,50642,11391,Low,Average
+29,Graduate,Single,661,46399,8475,Low,Poor
+58,College,Divorced,722,41088,13496,Low,Poor
+55,Graduate,Married,660,49382,3917,Low,Poor
+68,Graduate,Divorced,676,58526,18145,Low,Average
+54,Graduate,Married,636,71206,1961,Low,Poor
+53,College,Married,693,55794,8779,Low,Good
+42,Graduate,Married,709,24892,12171,High,Good
+27,Graduate,Married,566,49619,6568,Low,Poor
+69,Uneducated,Married,713,50498,5783,Low,Good
+49,Graduate,Married,698,59362,11111,High,Good
+21,Graduate,Single,662,51848,10389,Low,Poor
+28,Uneducated,Married,801,62531,10030,Low,Good
+45,College,Married,748,53917,14293,Low,Good
+43,Uneducated,Widow,645,65588,8028,Low,Poor
+41,Graduate,Divorced,742,45613,11598,Low,Poor
+52,High School,Divorced,762,51443,7467,Low,Poor
+44,Graduate,Divorced,707,58266,5753,Low,Poor
+57,Graduate,Married,718,44278,8576,High,Good
+67,High School,Married,717,42100,7506,Low,Good
+22,Graduate,Widow,596,43706,7756,Low,Poor
+65,Graduate,Married,691,42508,15827,High,Good
+52,Graduate,Married,688,55226,8729,High,Good
+51,High School,Single,772,31652,6685,Low,Poor
+54,Uneducated,Married,717,34440,10140,Low,Good
+51,Uneducated,Married,685,68627,10521,Low,Good
+51,Uneducated,Divorced,695,42749,4066,Low,Poor
+26,Graduate,Married,751,52000,8508,Low,Good
+44,College,Married,691,35109,8307,Low,Good
+70,Graduate,Widow,665,50941,9139,Low,Average
+66,High School,Single,686,42810,13628,Low,Average
+28,High School,Married,747,34369,10683,Low,Good
+25,Graduate,Single,725,63369,16140,Low,Poor
+24,Graduate,Divorced,702,61826,9942,Low,Poor
+26,Graduate,Widow,710,48926,18880,Low,Poor
+65,Graduate,Married,672,59994,7696,Low,Average
+59,Graduate,Divorced,690,69033,6152,Low,Poor
+68,College,Married,667,57541,12737,Low,Average
+45,Uneducated,Widow,685,54797,16820,Low,Poor
+42,Graduate,Divorced,767,51989,3106,Low,Poor
+59,Graduate,Divorced,646,56495,9015,Low,Poor
+48,College,Single,666,46361,6946,Low,Poor
+46,Graduate,Widow,637,47234,10714,Low,Poor
+48,Graduate,Divorced,626,54509,10050,Low,Poor
+57,College,Married,691,45261,16727,Low,Good
+55,High School,Divorced,669,46342,9458,Low,Poor
+70,Graduate,Married,788,50002,16874,High,Good
+55,Graduate,Divorced,686,61506,8424,Low,Poor
+52,College,Single,764,38673,14632,Low,Poor
+29,Uneducated,Divorced,748,57592,11143,Low,Poor
+41,College,Married,690,57918,18649,Low,Good
+21,Graduate,Single,806,57858,2615,Low,Poor
+21,Uneducated,Married,713,41933,4181,Low,Good
+67,Graduate,Single,776,33073,19158,Low,Average
+65,Graduate,Married,770,55597,6334,High,Good
+54,Graduate,Married,721,51875,6651,High,Good
+21,College,Married,738,60044,5621,Low,Good
+45,Uneducated,Married,731,42995,15742,Low,Good
+25,Graduate,Married,643,57601,3733,Low,Poor
+51,Uneducated,Divorced,703,60544,10112,Low,Poor
+58,College,Single,754,49047,8672,Low,Poor
+23,College,Widow,776,54169,15183,Low,Poor
+41,High School,Divorced,664,53820,7182,Low,Poor
+55,Graduate,Married,726,41785,12076,High,Good
+45,Graduate,Married,708,55311,4144,High,Good
+70,Uneducated,Divorced,694,66225,21370,Low,Average
+51,Graduate,Single,718,50222,8802,Low,Poor
+58,Uneducated,Single,711,35391,10044,Low,Poor
+43,College,Married,727,43128,18274,Low,Good
+57,Uneducated,Divorced,772,32206,7067,Low,Poor
+25,Graduate,Single,739,62903,18337,Low,Poor
+59,Graduate,Married,716,57641,7943,High,Good
+25,Uneducated,Widow,793,44986,13358,Low,Poor
+41,Graduate,Divorced,755,35819,7137,Low,Poor
+45,Graduate,Married,695,41667,3220,High,Good
+55,College,Single,639,43617,12073,Low,Poor
+55,High School,Divorced,651,51094,13200,Low,Poor
+50,Uneducated,Married,747,50758,3421,Low,Good
+69,Graduate,Single,668,63414,8465,Low,Average
+66,Graduate,Single,650,43072,16004,Low,Average
+59,Graduate,Widow,662,34918,13001,Low,Poor
+70,College,Married,666,38430,8024,Low,Average
+52,College,Divorced,743,49770,7012,Low,Poor
+30,Graduate,Divorced,692,42713,19741,Low,Poor
+25,Graduate,Married,631,47080,2765,Low,Poor
+69,College,Married,702,45460,9704,Low,Good
+67,Graduate,Married,711,59902,2677,High,Good
+60,High School,Married,676,44130,16574,Low,Poor
+30,Graduate,Married,758,46227,9964,Low,Good
+48,College,Divorced,679,57173,10891,Low,Poor
+65,Graduate,Married,755,44350,23844,High,Good
+21,Graduate,Divorced,730,54232,7033,Low,Poor
+25,Graduate,Married,746,53315,18743,Low,Good
+24,High School,Married,645,51418,8046,Low,Poor
+45,High School,Married,705,38656,8832,Low,Good
+53,Graduate,Married,697,62298,23191,High,Good
+45,Graduate,Divorced,629,72207,9195,Low,Poor
+22,Graduate,Married,755,50088,3128,Low,Good
+57,College,Married,659,39536,11410,Low,Poor
+65,Graduate,Single,670,50291,9136,Low,Average
+56,Uneducated,Married,649,59899,11835,Low,Poor
+49,Graduate,Married,735,43848,9332,High,Good
+53,High School,Married,624,48711,21078,Low,Poor
+41,Graduate,Widow,731,53407,12784,Low,Poor
+68,College,Married,752,62030,4625,Low,Good
+66,College,Divorced,727,57754,10623,Low,Average
+66,Uneducated,Married,736,58169,6002,Low,Good
+70,College,Married,738,45737,8761,Low,Good
+41,Graduate,Single,653,54019,5448,Low,Poor
+23,Graduate,Married,772,42780,20536,Low,Good
+21,Graduate,Married,677,58455,6543,Low,Poor
+66,Graduate,Married,697,61512,13438,High,Good
+30,High School,Single,683,55534,8383,Low,Poor
+58,Graduate,Single,725,46326,4208,Low,Poor
+42,Graduate,Married,673,47963,10988,Low,Poor
+41,High School,Widow,703,68065,12003,Low,Poor
+60,Graduate,Married,638,46493,12793,Low,Poor
+22,High School,Married,758,60500,-3111,Low,Good
+68,High School,Single,734,53389,3826,Low,Average
+52,Graduate,Married,685,46659,14788,High,Good
+46,College,Married,677,36554,5382,Low,Poor
+55,Graduate,Married,732,52116,11015,High,Good
+28,Graduate,Married,665,50911,3710,Low,Poor
+58,Uneducated,Single,706,68065,13658,Low,Poor
+55,College,Single,758,41398,14656,Low,Poor
+30,College,Married,659,72948,13660,Low,Poor
+55,College,Single,718,53788,15163,Low,Poor
+67,Graduate,Single,716,53778,17820,Low,Average
+27,Graduate,Married,695,44069,4130,Low,Good
+24,High School,Divorced,675,53147,6057,Low,Poor
+40,Uneducated,Married,761,54731,14488,Low,Good
+58,High School,Married,670,59373,15651,Low,Poor
+69,Graduate,Married,609,40217,6628,Low,Average
+54,Graduate,Widow,732,64068,6281,Low,Poor
+50,Uneducated,Married,640,53614,6739,Low,Poor
+69,Graduate,Single,735,56082,1975,Low,Average
+30,Uneducated,Married,767,47791,3643,Low,Good
+70,Graduate,Single,731,40719,3764,Low,Average
+29,Uneducated,Married,754,50727,8530,Low,Good
+53,High School,Married,801,51873,11354,Low,Good
+68,Uneducated,Divorced,748,36146,12167,Low,Average
+68,Graduate,Married,717,57933,7457,High,Good
+69,Uneducated,Divorced,782,59965,7580,Low,Average
+47,Graduate,Widow,788,42703,10618,Low,Poor
+65,Graduate,Single,788,39774,2520,Low,Average
+53,Graduate,Married,675,46970,14797,Low,Poor
+52,Graduate,Married,632,50239,16427,Low,Poor
+65,High School,Married,672,47358,6872,Low,Average
+70,High School,Married,735,49391,8008,Low,Good
+41,College,Widow,708,52215,16217,Low,Poor
+42,College,Divorced,690,36317,9385,Low,Poor
+52,Uneducated,Married,728,37467,12941,Low,Good
+54,College,Married,626,22777,9538,Low,Poor
+68,Uneducated,Divorced,707,59425,17782,Low,Average
+59,Graduate,Widow,756,50152,12450,Low,Poor
+46,College,Divorced,727,60479,12738,Low,Poor
+49,Graduate,Single,735,38623,12832,Low,Poor
+54,Graduate,Married,780,50244,7224,High,Good
+51,Graduate,Single,697,52148,7684,Low,Poor
+42,Graduate,Married,667,44382,13846,Low,Poor
+48,Graduate,Single,759,34466,10632,Low,Poor
+69,College,Married,759,67459,4112,Low,Good
+41,Uneducated,Married,728,63993,19366,Low,Good
+48,Uneducated,Single,692,46181,14890,Low,Poor
+41,Graduate,Married,700,55102,10188,High,Good
+29,College,Married,636,45152,8632,Low,Poor
+27,Graduate,Married,756,40046,10993,Low,Good
+57,High School,Single,754,68273,12588,Low,Poor
+43,High School,Married,634,33446,-165,Low,Poor
+60,College,Divorced,743,47145,20562,Low,Poor
+48,Graduate,Single,720,50843,6051,Low,Poor
+45,Uneducated,Single,649,66512,9990,Low,Poor
+25,Graduate,Married,640,58966,10174,Low,Poor
+68,Graduate,Widow,719,33278,19984,Low,Average
+41,Graduate,Married,680,49972,9559,High,Good
+54,Graduate,Married,791,50211,17943,High,Good
+50,Graduate,Married,748,47717,12034,High,Good
+69,Uneducated,Married,724,56198,5191,Low,Good
+52,High School,Single,726,35909,10674,Low,Poor
+45,Uneducated,Married,767,45914,9407,Low,Good
+43,Graduate,Widow,742,54788,4580,Low,Poor
+60,Graduate,Married,725,56796,11789,High,Good
+25,Graduate,Divorced,651,51494,10111,Low,Poor
+68,Graduate,Divorced,853,47116,12782,Low,Average
+52,Uneducated,Single,645,48801,10967,Low,Poor
+58,Uneducated,Widow,684,57404,6744,Low,Poor
+40,Graduate,Single,617,50339,13842,Low,Poor
+47,College,Married,727,39582,6878,Low,Good
+41,Graduate,Single,708,37665,-5498,Low,Poor
+29,Uneducated,Single,738,35104,10643,Low,Poor
+30,College,Married,613,64556,7230,Low,Poor
+46,Graduate,Married,756,58075,11911,High,Good
+27,Graduate,Married,660,48935,19994,Low,Poor
+42,Graduate,Married,693,45462,20139,High,Good
+29,College,Single,747,44261,9174,Low,Poor
+56,Graduate,Single,713,60932,5867,Low,Poor
+22,Uneducated,Married,717,69044,12923,Low,Good
+25,College,Married,740,43946,8149,Low,Good
+58,College,Divorced,721,61384,11959,Low,Poor
+70,Uneducated,Married,683,50280,6696,Low,Good
+48,College,Divorced,692,47876,11253,Low,Poor
+28,Uneducated,Married,711,65042,5940,Low,Good
+21,Graduate,Married,655,49898,15921,Low,Poor
+51,College,Married,750,52964,7050,Low,Good
+46,Uneducated,Married,714,52483,13306,Low,Good
+27,Graduate,Married,704,33744,3676,Low,Good
+54,Graduate,Divorced,760,52884,13906,Low,Poor
+24,Graduate,Married,694,44373,5168,Low,Good
+69,Graduate,Divorced,691,35788,11306,Low,Average
+26,College,Divorced,676,44829,15116,Low,Poor
+60,Graduate,Divorced,717,44746,9000,Low,Poor
+48,Uneducated,Widow,715,60299,4854,Low,Poor
+56,College,Married,667,39362,12484,Low,Poor
+30,Graduate,Married,691,42102,5795,Low,Good
+55,Graduate,Married,667,52354,7979,Low,Poor
+48,Graduate,Married,665,36742,11327,Low,Poor
+23,College,Married,614,43410,16803,Low,Poor
+42,Uneducated,Divorced,688,33355,10133,Low,Poor
+57,Graduate,Married,615,59200,10114,Low,Poor
+49,College,Married,677,46986,13688,Low,Poor
+57,High School,Single,669,49841,10252,Low,Poor
+28,College,Married,753,59160,13178,Low,Good
+21,Graduate,Single,649,42777,15393,Low,Poor
+23,Graduate,Divorced,662,46880,8361,Low,Poor
+42,Uneducated,Married,681,39437,-6375,Low,Good
+57,Graduate,Single,671,39415,5910,Low,Poor
+54,College,Single,768,40794,16043,Low,Poor
+66,Graduate,Married,643,45075,9831,Low,Average
+26,Graduate,Married,681,46152,8304,Low,Good
+65,College,Married,717,52886,15834,Low,Good
+50,College,Single,744,41088,9493,Low,Poor
+45,High School,Married,681,53196,-463,Low,Good
+50,Graduate,Married,604,54850,2473,Low,Poor
+40,Graduate,Married,692,45322,12093,High,Good
+70,Graduate,Married,768,41953,9666,High,Good
+69,Uneducated,Married,714,50851,17273,Low,Good
+68,Uneducated,Married,712,47971,6334,Low,Good
+48,Graduate,Widow,647,52204,8452,Low,Poor
+49,Uneducated,Married,642,65699,5577,Low,Poor
+47,College,Married,701,50686,7397,Low,Good
+43,College,Single,629,43608,540,Low,Poor
+44,College,Married,739,41091,8072,Low,Good
+60,High School,Single,658,41478,9741,Low,Poor
+21,Graduate,Married,699,35372,9318,Low,Good
+23,Uneducated,Widow,606,59327,20748,Low,Poor
+45,High School,Married,680,27667,19167,Low,Good
+52,College,Single,641,54881,6246,Low,Poor
+40,Graduate,Single,584,41319,-220,Low,Poor
+41,Uneducated,Married,727,44876,9504,Low,Good
+30,Graduate,Single,782,41020,11883,Low,Poor
+65,Graduate,Single,756,64459,5698,Low,Average
+45,High School,Divorced,734,50163,5945,Low,Poor
+28,College,Married,679,57904,17913,Low,Poor
+41,Uneducated,Married,740,63005,8712,Low,Good
+53,Uneducated,Widow,761,51634,13311,Low,Poor
+57,High School,Single,707,38044,5348,Low,Poor
+28,Uneducated,Widow,641,47794,9715,Low,Poor
+57,Graduate,Married,675,42578,8318,Low,Poor
+69,Uneducated,Divorced,785,44965,6623,Low,Average
+55,Graduate,Married,696,49054,15777,High,Good
+28,Graduate,Divorced,534,48658,3056,Low,Poor
+57,Graduate,Widow,627,54121,11500,Low,Poor
+57,Graduate,Married,679,55573,8224,Low,Poor
+70,College,Widow,752,48659,12074,Low,Average
+69,High School,Married,686,54035,8292,Low,Good
+56,Graduate,Married,753,44506,14336,High,Good
+46,Graduate,Married,674,63148,5301,Low,Poor
+29,College,Married,602,44345,15788,Low,Poor
+66,Graduate,Single,675,61972,9856,Low,Average
+49,Uneducated,Married,717,35239,3357,Low,Good
+42,High School,Married,713,46196,13401,Low,Good
+57,Graduate,Divorced,637,46690,9006,Low,Poor
+58,Graduate,Divorced,682,52790,1461,Low,Poor
+42,Uneducated,Married,834,58618,11662,Low,Good
+68,College,Married,638,37506,15033,Low,Average
+26,Graduate,Married,733,38920,16411,Low,Good
+47,Uneducated,Single,595,35981,8108,Low,Poor
+25,Uneducated,Single,743,63202,10727,Low,Poor
+54,Graduate,Married,655,52976,10253,Low,Poor
+22,Graduate,Married,720,39156,17449,Low,Good
+30,Graduate,Widow,635,45569,5948,Low,Poor
+59,Uneducated,Married,715,61818,7677,Low,Good
+25,Graduate,Married,655,47219,5826,Low,Poor
+66,High School,Married,664,46628,2754,Low,Average
+21,Uneducated,Single,722,42187,11239,Low,Poor
+47,Graduate,Married,678,39750,18006,Low,Poor
+65,Graduate,Married,719,61833,9008,High,Good
+40,College,Married,690,66739,5591,Low,Good
+50,Graduate,Married,703,40148,10934,High,Good
+55,Graduate,Widow,722,64049,12946,Low,Poor
+54,Graduate,Divorced,682,45126,9218,Low,Poor
+51,College,Married,650,55336,17018,Low,Poor
+56,Graduate,Married,673,64102,5938,Low,Poor
+42,Uneducated,Married,760,48549,8565,Low,Good
+66,High School,Married,706,46721,11480,Low,Good
+67,Uneducated,Married,658,58011,11965,Low,Average
+68,Graduate,Single,720,38900,10236,Low,Average
+21,Uneducated,Married,723,61471,3608,Low,Good
+50,Graduate,Married,726,51428,21690,High,Good
+26,Graduate,Married,651,44222,8820,Low,Poor
+57,Graduate,Widow,666,43958,10551,Low,Poor
+46,Uneducated,Widow,666,36165,13084,Low,Poor
+25,Graduate,Divorced,682,44638,6817,Low,Poor
+60,Graduate,Married,727,47360,10285,High,Good
+25,Graduate,Divorced,715,39387,6614,Low,Poor
+23,Uneducated,Single,719,49545,12078,Low,Poor
+52,Graduate,Divorced,768,54729,8620,Low,Poor
+70,Graduate,Single,734,47865,11344,Low,Average
+70,Graduate,Divorced,693,56627,4767,Low,Average
+30,Uneducated,Married,641,41929,5855,Low,Poor
+30,College,Divorced,664,60034,3174,Low,Poor
+48,Graduate,Widow,687,51218,6447,Low,Poor
+46,High School,Single,741,65453,-2868,Low,Poor
+50,Graduate,Married,699,74142,8464,High,Good
+43,Graduate,Widow,667,45298,7329,Low,Poor
+29,Graduate,Married,663,45709,10755,Low,Poor
+21,Graduate,Divorced,697,47538,10223,Low,Poor
+42,Graduate,Married,744,55957,16285,High,Good
+24,Graduate,Married,780,63260,22972,Low,Good
+21,College,Married,690,43472,15688,Low,Good
+65,Graduate,Married,698,53812,7734,High,Good
+67,College,Divorced,639,48641,7533,Low,Average
+57,High School,Married,797,56181,14343,Low,Good
+60,Graduate,Married,630,65095,1583,Low,Poor
+28,Graduate,Married,759,47597,8424,Low,Good
+55,Graduate,Married,682,33301,8809,High,Good
+67,Graduate,Divorced,670,57439,12921,Low,Average
+23,Graduate,Widow,644,41673,13069,Low,Poor
+41,Uneducated,Married,821,48569,6277,Low,Good
+21,Graduate,Divorced,711,57870,7928,Low,Poor
+25,Graduate,Divorced,701,52974,12226,Low,Poor
+59,High School,Married,744,48983,6005,Low,Good
+59,Graduate,Widow,667,44241,16031,Low,Poor
+46,Graduate,Married,700,21001,13046,High,Good
+52,Graduate,Single,703,56983,10858,Low,Poor
+44,Graduate,Divorced,674,47470,11955,Low,Poor
+70,Graduate,Married,760,65133,7666,High,Good
+50,Graduate,Divorced,689,53980,6869,Low,Poor
+43,Graduate,Divorced,622,44589,7876,Low,Poor
+22,Uneducated,Single,685,60669,12500,Low,Poor
+40,Graduate,Divorced,712,61511,11005,Low,Poor
+67,Uneducated,Married,655,47810,7886,Low,Average
+67,High School,Married,659,61936,13748,Low,Average
+47,College,Married,673,44447,9130,Low,Poor
+59,High School,Widow,761,51596,6533,Low,Poor
+44,Graduate,Single,676,55714,11272,Low,Poor
+56,Uneducated,Married,771,57848,4935,Low,Good
+67,College,Married,669,56215,1564,Low,Average
+66,Uneducated,Divorced,716,46673,9974,Low,Average
+53,High School,Married,678,60937,6713,Low,Poor
+44,Uneducated,Single,738,48756,8729,Low,Poor
+59,Graduate,Married,644,44310,5166,Low,Poor
+46,College,Married,737,44457,16045,Low,Good
+25,Graduate,Divorced,706,69400,6693,Low,Poor
+58,College,Married,668,42580,7840,Low,Poor
+24,College,Married,692,62916,11889,Low,Good
+30,Graduate,Widow,777,38645,3117,Low,Poor
+46,Uneducated,Single,707,54879,2747,Low,Poor
+30,Graduate,Widow,665,52971,11905,Low,Poor
+46,Graduate,Married,640,66212,7775,Low,Poor
+49,Graduate,Divorced,725,43456,5493,Low,Poor
+53,Graduate,Married,710,40693,13017,High,Good
+25,College,Single,735,48835,5940,Low,Poor
+67,Graduate,Divorced,627,66648,8627,Low,Average
+26,College,Divorced,641,41158,5519,Low,Poor
+22,College,Divorced,757,24116,11517,Low,Poor
+42,Graduate,Single,717,50598,16660,Low,Poor
+40,College,Divorced,727,59495,695,Low,Poor
+52,Graduate,Divorced,652,39862,10563,Low,Poor
+45,Graduate,Married,651,58479,14283,Low,Poor
+60,College,Divorced,750,39641,7893,Low,Poor
+40,Graduate,Divorced,752,48534,4345,Low,Poor
+45,College,Married,646,57527,12105,Low,Poor
+28,Uneducated,Single,636,38125,15008,Low,Poor
+24,Graduate,Married,695,51815,14453,Low,Good
+24,Uneducated,Single,660,62150,11830,Low,Poor
+54,Graduate,Married,659,54739,10490,Low,Poor
+23,High School,Married,637,42794,5505,Low,Poor
+65,Graduate,Single,677,65187,14326,Low,Average
+23,Uneducated,Married,642,56584,14050,Low,Poor
+56,Graduate,Single,645,31396,4310,Low,Poor
+58,Uneducated,Divorced,715,58642,11822,Low,Poor
+65,Uneducated,Widow,697,44286,13264,Low,Average
+48,College,Single,724,51966,14411,Low,Poor
+50,College,Widow,618,60080,9625,Low,Poor
+25,Graduate,Married,700,44504,5712,Low,Good
+47,Graduate,Married,804,33544,7489,High,Good
+57,Uneducated,Single,681,65055,4964,Low,Poor
+51,Uneducated,Married,741,61646,9745,Low,Good
+50,Graduate,Divorced,741,49127,8766,Low,Poor
+26,College,Divorced,743,58534,20725,Low,Poor
+21,Graduate,Single,708,46306,14473,Low,Poor
+25,College,Single,728,50970,14848,Low,Poor
+41,Uneducated,Married,735,48557,12357,Low,Good
+55,Graduate,Married,732,46711,8163,High,Good
+67,Graduate,Married,644,53593,8623,Low,Average
+43,High School,Married,615,37918,9081,Low,Poor
+55,Graduate,Divorced,622,47484,10941,Low,Poor
+56,Graduate,Widow,686,53145,11946,Low,Poor
+29,Graduate,Married,730,68381,10004,Low,Good
+55,College,Widow,645,38325,8547,Low,Poor
+51,Graduate,Married,746,55206,7029,High,Good
+59,Uneducated,Married,675,56301,3037,Low,Poor
+46,College,Married,675,31233,16417,Low,Poor
+55,High School,Married,658,54105,21028,Low,Poor
+69,High School,Widow,606,58803,15997,Low,Average
+21,Graduate,Married,711,55887,3705,Low,Good
+28,Graduate,Married,786,49161,13935,Low,Good
+68,Graduate,Married,697,53332,15119,High,Good
+44,College,Single,607,51698,7983,Low,Poor
+51,Graduate,Divorced,739,33105,12445,Low,Poor
+43,Graduate,Married,619,51933,7718,Low,Poor
+55,Graduate,Married,640,46329,17645,Low,Poor
+57,Uneducated,Married,688,42952,11827,Low,Good
+52,College,Married,706,74850,5414,Low,Good
+43,Graduate,Single,650,62526,13349,Low,Poor
+53,Graduate,Married,686,38498,15294,High,Good
+22,Graduate,Married,736,53466,10991,Low,Good
+55,Graduate,Divorced,743,64580,12397,Low,Poor
+43,Graduate,Divorced,763,35038,9651,Low,Poor
+27,Uneducated,Divorced,795,50770,4329,Low,Poor
+23,College,Married,740,51241,9241,Low,Good
+52,College,Married,689,37255,12615,Low,Good
+47,Graduate,Single,743,53796,9360,Low,Poor
+68,Graduate,Divorced,723,61162,14004,Low,Average
+44,College,Married,725,65080,8039,Low,Good
+54,High School,Married,709,47506,8367,Low,Good
+70,High School,Married,654,75016,14156,Low,Average
+57,Uneducated,Single,649,29420,11109,Low,Poor
+30,College,Married,695,53562,7941,Low,Good
+46,Graduate,Single,707,35877,15169,Low,Poor
+51,College,Divorced,666,50902,6556,Low,Poor
+55,Graduate,Married,721,44781,6365,High,Good
+54,High School,Single,804,55069,-4147,Low,Poor
+46,Graduate,Married,613,48731,7230,Low,Poor
+42,High School,Single,729,41740,16544,Low,Poor
+49,Uneducated,Married,697,42397,-361,Low,Good
+54,College,Divorced,723,69325,5240,Low,Poor
+24,Graduate,Single,678,54435,12195,Low,Poor
+30,Uneducated,Divorced,693,32979,-1224,Low,Poor
+23,Graduate,Single,706,55508,7447,Low,Poor
+47,Graduate,Married,685,48053,15704,High,Good
+69,Graduate,Divorced,624,50046,20215,Low,Average
+51,Graduate,Married,688,58199,11451,High,Good
+67,Graduate,Single,629,61832,5368,Low,Average
+28,Uneducated,Married,733,41412,5199,Low,Good
+48,Graduate,Married,607,49703,10725,Low,Poor
+70,Graduate,Divorced,751,44539,11405,Low,Average
+26,Graduate,Married,721,55969,19290,Low,Good
+55,Graduate,Divorced,722,47677,14854,Low,Poor
+67,High School,Divorced,592,50293,10421,Low,Average
+26,Graduate,Married,684,47297,8324,Low,Good
+70,Uneducated,Widow,758,48939,25074,Low,Average
+66,College,Married,674,67047,13133,Low,Average
+51,Graduate,Widow,646,73908,6656,Low,Poor
+50,College,Single,668,53771,8877,Low,Poor
+26,Graduate,Married,697,49000,5613,Low,Good
+26,High School,Married,657,34044,-2023,Low,Poor
+24,Graduate,Married,762,42396,11563,Low,Good
+59,Graduate,Married,697,48733,18912,High,Good
+40,Graduate,Divorced,672,42849,1847,Low,Poor
+59,Graduate,Single,635,43901,10276,Low,Poor
+60,Graduate,Single,724,65754,6465,Low,Poor
+53,Uneducated,Divorced,723,50288,12608,Low,Poor
+29,College,Married,660,51182,9138,Low,Poor
+23,Graduate,Widow,588,43258,3200,Low,Poor
+60,College,Divorced,721,61775,5094,Low,Poor
+70,Uneducated,Widow,691,47874,5848,Low,Average
+69,Uneducated,Divorced,717,44791,16722,Low,Average
+53,Graduate,Married,798,34192,16466,High,Good
+60,Uneducated,Single,699,49389,8443,Low,Poor
+26,Graduate,Divorced,674,44479,16139,Low,Poor
+22,Graduate,Married,643,66846,9134,Low,Poor
+49,High School,Single,684,68439,8367,Low,Poor
+57,Graduate,Married,708,37647,10286,High,Good
+40,College,Widow,703,38778,11424,Low,Poor
+24,Uneducated,Married,786,47237,7223,Low,Good
+44,Graduate,Married,725,41840,10109,High,Good
+26,Graduate,Married,693,52174,13937,Low,Good
+59,High School,Married,665,46734,10648,Low,Poor
+22,Graduate,Married,713,52805,10214,Low,Good
+44,College,Married,655,60161,12471,Low,Poor
+40,Graduate,Single,709,39358,13334,Low,Poor
+28,High School,Divorced,724,59952,9687,Low,Poor
+55,Uneducated,Married,689,42713,7629,Low,Good
+25,Graduate,Divorced,668,71485,10946,Low,Poor
+26,Graduate,Divorced,591,66210,2030,Low,Poor
+55,Graduate,Married,757,48869,8948,High,Good
+24,Graduate,Married,720,40364,-2358,Low,Good
+48,Graduate,Married,721,38451,1621,High,Good
+49,Graduate,Divorced,622,58736,869,Low,Poor
+66,Uneducated,Married,769,49696,15237,Low,Good
+49,Graduate,Married,677,59269,10070,Low,Poor
+41,Uneducated,Married,686,72042,3690,Low,Good
+21,Uneducated,Married,647,42296,12455,Low,Poor
+55,College,Single,611,37699,14943,Low,Poor
+43,Uneducated,Married,758,51926,12542,Low,Good
+70,College,Divorced,764,61448,9056,Low,Average
+40,Uneducated,Married,692,40595,11162,Low,Good
+69,Graduate,Married,666,50346,14507,Low,Average
+42,Uneducated,Married,681,63700,7654,Low,Good
+23,Uneducated,Divorced,683,33671,10149,Low,Poor
+66,Uneducated,Single,640,52353,8714,Low,Average
+26,Graduate,Divorced,685,44599,1933,Low,Poor
+30,Graduate,Married,708,51242,14583,Low,Good
+25,High School,Married,751,57098,20286,Low,Good
+52,Graduate,Single,701,52208,5631,Low,Poor
+30,College,Single,621,39898,14813,Low,Poor
+22,Graduate,Married,718,44988,5790,Low,Good
+42,Graduate,Married,687,64266,10664,High,Good
+22,Uneducated,Divorced,769,53289,17540,Low,Poor
+49,Graduate,Single,771,58403,7398,Low,Poor
+21,Uneducated,Married,773,52503,9927,Low,Good
+70,College,Married,672,58091,992,Low,Average
+29,Uneducated,Single,799,46039,6679,Low,Poor
+46,Uneducated,Single,718,42325,469,Low,Poor
+29,Graduate,Married,781,57637,12146,Low,Good
+40,Graduate,Married,675,61274,14158,Low,Poor
+44,Graduate,Married,685,40857,8892,High,Good
+53,College,Married,714,44241,11429,Low,Good
+68,Graduate,Married,708,48368,8371,High,Good
+59,Graduate,Single,763,66198,13703,Low,Poor
+60,College,Married,688,55631,10647,Low,Good
+25,Graduate,Widow,758,36759,72,Low,Poor
+43,High School,Married,737,49070,14700,Low,Good
+40,High School,Married,689,47541,8052,Low,Good
+29,College,Married,733,38267,3648,Low,Good
+67,Uneducated,Divorced,676,48952,7805,Low,Average
+41,Graduate,Divorced,818,47100,490,Low,Poor
+68,Uneducated,Married,567,46384,3751,Low,Average
+68,Graduate,Widow,734,45926,10715,Low,Average
+21,Graduate,Single,612,64714,11134,Low,Poor
+51,Graduate,Single,689,46363,11532,Low,Poor
+58,Graduate,Divorced,696,50497,10016,Low,Poor
+28,College,Divorced,775,49412,6536,Low,Poor
+40,Graduate,Single,665,44950,9728,Low,Poor
+70,College,Married,765,50795,7814,Low,Good
+43,Graduate,Single,641,50654,1871,Low,Poor
+59,Graduate,Married,767,50798,6138,High,Good
+68,College,Divorced,676,41408,14448,Low,Average
+50,High School,Married,704,47939,17941,Low,Good
+70,Graduate,Married,683,57603,13256,High,Good
+25,Graduate,Married,764,48202,17718,Low,Good
+48,High School,Single,754,51618,10427,Low,Poor
+43,Uneducated,Married,722,51670,18712,Low,Good
+55,High School,Married,642,54174,20272,Low,Poor
+24,Graduate,Widow,664,55587,1333,Low,Poor
+54,Uneducated,Divorced,649,48258,11107,Low,Poor
+54,College,Single,588,40887,10432,Low,Poor
+47,College,Divorced,763,37813,7879,Low,Poor
+28,College,Divorced,684,60177,12460,Low,Poor
+43,Graduate,Divorced,683,57703,10206,Low,Poor
+65,College,Married,775,56494,6323,Low,Good
+66,Graduate,Married,676,58112,9867,Low,Average
+52,High School,Married,658,48384,16023,Low,Poor
+44,Graduate,Single,689,43751,10913,Low,Poor
+66,Uneducated,Married,643,40196,13135,Low,Average
+54,Uneducated,Married,717,39107,8615,Low,Good
+46,Graduate,Married,681,62122,12260,High,Good
+66,Graduate,Divorced,675,45069,3954,Low,Average
+22,Graduate,Married,670,60549,7501,Low,Poor
+43,Graduate,Single,695,48131,9487,Low,Poor
+26,Graduate,Widow,704,43238,3618,Low,Poor
+26,College,Widow,674,39056,5849,Low,Poor
+23,Uneducated,Divorced,682,44118,11566,Low,Poor
+27,Graduate,Widow,696,64182,10649,Low,Poor
+28,College,Married,691,39158,14032,Low,Good
+44,Graduate,Widow,702,71167,6997,Low,Poor
+58,Graduate,Single,666,41594,10288,Low,Poor
+66,Uneducated,Married,750,57499,6641,Low,Good
+59,Graduate,Married,705,48547,13531,High,Good
+56,Graduate,Single,675,46794,15954,Low,Poor
+69,High School,Single,717,37286,12417,Low,Average
+58,Graduate,Married,696,49016,15306,High,Good
+66,Graduate,Divorced,613,38417,10162,Low,Average
+70,High School,Married,717,33184,14028,Low,Good
+56,College,Single,649,51196,10377,Low,Poor
+66,Graduate,Divorced,747,43646,4875,Low,Average
+24,College,Married,688,66843,11234,Low,Good
+51,Graduate,Married,739,60000,5024,High,Good
+22,College,Married,668,66974,21696,Low,Poor
+30,High School,Married,703,43191,8330,Low,Good
+25,College,Married,761,51361,13225,Low,Good
+30,Uneducated,Widow,687,23793,9938,Low,Poor
+66,Uneducated,Married,670,47182,3832,Low,Average
+42,Uneducated,Married,733,50985,507,Low,Good
+60,Graduate,Divorced,732,51540,13745,Low,Poor
+69,College,Divorced,673,49576,17747,Low,Average
+53,Graduate,Single,601,50666,6326,Low,Poor
+44,Graduate,Single,669,22868,1717,Low,Poor
+58,Uneducated,Single,734,52562,8374,Low,Poor
+28,High School,Married,661,54834,5314,Low,Poor
+25,Graduate,Married,699,63380,6748,Low,Good
+58,College,Single,667,53687,13052,Low,Poor
+24,Graduate,Widow,603,48693,9748,Low,Poor
+41,Graduate,Married,666,61049,5852,Low,Poor
+22,Graduate,Married,734,26427,12943,Low,Good
+56,Graduate,Married,581,44851,13334,Low,Poor
+60,Graduate,Married,713,42342,8315,High,Good
+69,Graduate,Single,641,49655,10690,Low,Average
+69,Graduate,Married,730,28013,12603,High,Good
+55,Uneducated,Divorced,736,63196,12131,Low,Poor
+56,Uneducated,Married,691,47502,10203,Low,Good
+25,Graduate,Married,692,53188,17163,Low,Good
+49,Graduate,Married,660,52231,12913,Low,Poor
+40,Graduate,Single,633,62625,7747,Low,Poor
+30,Graduate,Single,785,31380,7777,Low,Poor
+26,College,Married,657,51123,7210,Low,Poor
+28,Uneducated,Married,778,61462,13161,Low,Good
+52,High School,Single,657,49020,6886,Low,Poor
+55,Uneducated,Divorced,726,40487,7876,Low,Poor
+41,Graduate,Widow,643,43961,15290,Low,Poor
+55,Graduate,Divorced,726,46071,10958,Low,Poor
+42,Graduate,Divorced,684,42789,15993,Low,Poor
+47,Uneducated,Married,684,48472,13990,Low,Good
+54,Graduate,Widow,731,65082,4117,Low,Poor
+66,Graduate,Single,677,44026,9489,Low,Average
+41,High School,Widow,629,45123,14950,Low,Poor
+69,Graduate,Widow,738,54598,3889,Low,Average
+24,College,Divorced,643,48252,12099,Low,Poor
+25,Graduate,Widow,726,36708,9804,Low,Poor
+70,Graduate,Married,749,49388,1226,High,Good
+28,Graduate,Married,681,49011,10598,Low,Good
+57,High School,Married,759,59757,5813,Low,Good
+60,High School,Married,724,40278,4162,Low,Good
+29,Graduate,Single,665,59823,10046,Low,Poor
+58,High School,Married,770,49022,346,Low,Good
+43,High School,Widow,643,38921,6629,Low,Poor
+51,High School,Single,681,36912,22756,Low,Poor
+40,Uneducated,Divorced,690,69344,13251,Low,Poor
+52,Graduate,Widow,730,48401,5593,Low,Poor
+21,Graduate,Widow,756,59365,17021,Low,Poor
+70,College,Widow,753,32919,5040,Low,Average
+50,Graduate,Married,711,76377,7232,High,Good
+55,Graduate,Widow,686,58932,4256,Low,Poor
+69,Graduate,Divorced,609,47446,11280,Low,Average
+52,College,Single,634,46938,16843,Low,Poor
+21,College,Married,788,57346,5005,Low,Good
+44,High School,Divorced,608,56772,-302,Low,Poor
+50,Graduate,Married,661,51825,15455,Low,Poor
+29,Graduate,Married,757,50109,17769,Low,Good
+29,College,Married,710,55611,25,Low,Good
+30,High School,Single,746,32583,12300,Low,Poor
+55,High School,Married,727,46287,11133,Low,Good
+68,Uneducated,Divorced,773,33531,6063,Low,Average
+54,College,Married,715,56046,3028,Low,Good
+55,Graduate,Single,733,43242,14959,Low,Poor
+40,Graduate,Single,664,34284,10895,Low,Poor
+22,Graduate,Married,729,42062,11272,Low,Good
+27,College,Widow,680,51494,6891,Low,Poor
+47,College,Married,677,47948,5990,Low,Poor
+56,Graduate,Married,745,38268,-2275,High,Good
+67,Graduate,Married,745,32951,8860,High,Good
+56,Graduate,Married,784,50739,17194,High,Good
+46,Graduate,Divorced,781,44192,5549,Low,Poor
+53,High School,Divorced,746,47419,2388,Low,Poor
+54,Uneducated,Single,614,48403,12178,Low,Poor
+27,Graduate,Married,791,54301,13100,Low,Good
+26,College,Single,746,58469,7070,Low,Poor
+53,Uneducated,Married,662,51465,8256,Low,Poor
+66,Graduate,Married,736,46795,11320,High,Good
+58,Graduate,Single,648,50248,9222,Low,Poor
+51,Graduate,Married,731,46608,15001,High,Good
+55,Uneducated,Married,634,33574,22186,Low,Poor
+57,Graduate,Widow,660,60919,1454,Low,Poor
+50,College,Widow,735,59034,16149,Low,Poor
+27,Graduate,Single,754,69883,10526,Low,Poor
+46,Uneducated,Divorced,716,72805,16941,Low,Poor
+49,College,Married,686,38240,13622,Low,Good
+49,Graduate,Married,594,46646,10306,Low,Poor
+51,Graduate,Divorced,690,75115,13800,Low,Poor
+57,Graduate,Widow,727,49594,8029,Low,Poor
+27,Graduate,Widow,684,52442,6128,Low,Poor
+21,Uneducated,Married,699,34789,14054,Low,Good
+65,College,Married,691,51503,5778,Low,Good
+42,College,Divorced,684,69319,13212,Low,Poor
+59,College,Married,704,62866,10154,Low,Good
+52,Uneducated,Married,686,43900,-1647,Low,Good
+48,Graduate,Married,772,46037,7128,High,Good
+65,College,Married,590,38691,11674,Low,Average
+59,Uneducated,Married,673,41488,7970,Low,Poor
+58,Uneducated,Single,656,30898,-2734,Low,Poor
+58,Uneducated,Widow,711,49152,16604,Low,Poor
+59,Uneducated,Single,704,65101,10847,Low,Poor
+45,College,Married,781,53554,12219,Low,Good
+48,Graduate,Married,798,63662,7634,High,Good
+47,Graduate,Single,661,60732,12657,Low,Poor
+21,Uneducated,Single,700,44532,19174,Low,Poor
+43,Graduate,Single,710,42405,6325,Low,Poor
+22,Graduate,Divorced,660,42788,18335,Low,Poor
+57,Graduate,Married,731,32829,11993,High,Good
+59,College,Widow,688,50323,5653,Low,Poor
+24,Graduate,Married,647,20955,21062,Low,Poor
+21,Uneducated,Married,686,55914,11958,Low,Good
+28,Uneducated,Married,650,50719,13382,Low,Poor
+58,High School,Married,752,54714,8653,Low,Good
+23,College,Divorced,795,60570,6018,Low,Poor
+65,College,Married,712,51988,10839,Low,Good
+30,Graduate,Married,706,66316,17907,Low,Good
+30,Uneducated,Divorced,708,56219,8452,Low,Poor
+48,College,Widow,759,42429,9866,Low,Poor
+67,Graduate,Divorced,758,47623,17282,Low,Average
