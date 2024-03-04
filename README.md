@@ -12,9 +12,6 @@ The project focuses on analyzing student performance on math exams using demogra
 ** ordered_logistic_regression.py: **  Implementation of ordered logistic regression for modeling ordinal categorical outcomes.
 ** multinomial_logistic_regression.py: **  Implementation of multinomial logistic regression (MNLogit) for modeling nominal categorical outcomes with more than two categories.
 
-data/: Directory containing the datasets used in the analysis.
-Getting Started
-Clone the repository: git clone https://github.com/your-username/logistic-regression-analysis.git
 Install the required dependencies: pip install -r requirements.txt
 Navigate to the desired script (e.g., simple_logistic_regression.py) and run it to see the analysis and results.
 
